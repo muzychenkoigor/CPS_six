@@ -5,3 +5,19 @@
   font-style: italic;
 }
 
+@font-face {
+  font-family: 'TTLakes';
+  src: url('../fonts/TTLakes-Medium.eot') format('embedded-opentype'),
+  url('../fonts/TTLakes-Medium.woff') format('woff'),
+  url('../fonts/TTLakes-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTLakes';
+  src: url('../fonts/TTLakes-Bold.eot') format('embedded-opentype'),
+  url('../fonts/TTLakes-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
